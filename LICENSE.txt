@@ -1,0 +1,12 @@
+EF JOHNSON 5300ES FEATURE MANAGER — FREEWARE LICENSE
+Version 1.0 — October 2026
+
+Copyright (c) 2026. All rights reserved.
+
+Permission is granted to download and use the unmodified, officially distributed executable without charge for lawful purposes on equipment and systems you are authorized to manage.
+
+Permission is granted to redistribute the complete, unmodified official release ZIP without charge, provided the license and disclaimer remain included.
+
+No permission is granted to modify, repackage, sell, sublicense, or misrepresent the software as your own, except as required by applicable law. No source-code rights are granted. Third-party trademarks, logos, and imagery remain the property of their respective owners.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE COPYRIGHT HOLDER IS NOT LIABLE FOR DAMAGES ARISING FROM ITS USE.
